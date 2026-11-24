@@ -11,7 +11,7 @@ A basic dashboard allowing users to gather uptime data of websites and check if 
 
 ## Basic Design
 
-Enter URL → Store URL as a single SQL instance with an ID and attached data → Get data → Update data → Update dashboard → Wait → Repeat
+Enter URL → Store URL as instance with an ID and attached data → Get data → Update data → Update dashboard → Wait → Repeat
 
 ## Requirements
 
