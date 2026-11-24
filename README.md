@@ -8,7 +8,6 @@ A basic dashboard allowing users to gather uptime data of websites and check if 
 
 - **Frontend:** React JS + Vite
 - **Backend:** Node JS + Express
-- **Database:** SQLite + better-sqlite3
 
 ## Basic Design
 
