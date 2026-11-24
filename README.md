@@ -25,4 +25,4 @@ Enter URL â†’ Store URL as a single SQL instance with an ID and attached data â†
 
 ## UML Component Diagram
 
-![UML Component Diagram](images/ComponentsDrawing.png)
+![UML Component Diagram](images/architecture.svg)
